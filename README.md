@@ -11,11 +11,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a third year UG student.
+
+- 🌱 I’m currently learning : Backend Development
+
+- 👨‍💻 All of my projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
+
+- 💬 Ask me about : DSA, Competitive Programming, JavaScript
+
+- 📫 How to reach me **sahilsharma123027@gmail.com**
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/vivek9patel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
