@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
+<div align="center">
+  <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen>
+</div>
+<hr>
 <h3 align="center">A passionate computer science student from India</h3>
 
 
