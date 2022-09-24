@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a fourth year UG student.
 
-- 🌱 I’m currently : Implementing Ideas
+- 🌱 I’m currently working as an SDE Intern at FourKites and open to Freelance Projects.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
 
