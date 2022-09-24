@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen>
 </div>
 <hr>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">An Enthusiastic Web3 Front End Developer & Web2 Full Stack Developer who loves to build apps and always open to face challenges.</h3>
 
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a third year UG student.
+- 🔭 I’m currently a fourth year UG student.
 
 - 🌱 I’m currently : Implementing Ideas
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
 
-- 💬 Ask me about : DSA, Competitive Programming, JavaScript
+- 💬 Ask me about : DSA, Competitive Programming, BlockChain, Solidity, Smart contract, JavaScript
 
 - 📫 How to reach me **sahilsharma123027@gmail.com**
 
