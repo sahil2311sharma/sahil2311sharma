@@ -11,7 +11,6 @@
 </p>
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a fourth year UG student.
 
