@@ -12,13 +12,11 @@
 
 
 
-- 🔭 I’m currently a fourth year UG student.
-
-- 🌱 I’m currently working as an SDE Intern at FourKites and open to Freelance Projects.
+- 🌱 Currently working as a Software Engineer at FourKites.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
 
-- 💬 Ask me about : DSA, Competitive Programming, BlockChain, Solidity, Smart contract, JavaScript
+- 💬 Ask me about: DSA, Competitive Programming, BlockChain, Solidity, Smart contract, JavaScript, Java, Spring Boot
 
 - 📫 How to reach me **sahilsharma123027@gmail.com**
 
